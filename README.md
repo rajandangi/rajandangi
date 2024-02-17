@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rajan Dangi!
 
 Experienced full-stack web developer with 4+ years of expertise in WordPress, PHP, Laravel, server and networking. Skilled in requirement analysis, customer interaction, design, development, implementation, installation, and testing with a track record of delivering successful projects. Let's connect to take your projects to the next level.</br>
-🌐 [Portfolio](https://www.rajandangi.com.np) Page </br>
+You can visit my [Portfolio](https://www.rajandangi.com.np) page and [LinkedIn](https://www.linkedin.com/in/rajan-dangi-091783146)</br>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <picture>
@@ -15,6 +15,8 @@ Experienced full-stack web developer with 4+ years of expertise in WordPress, PH
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rajandangi&show_icons=true" />
 </picture>
+
+---
 
 # 👨🏻‍💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -38,7 +40,7 @@ Experienced full-stack web developer with 4+ years of expertise in WordPress, PH
 ![Mac OS](https://img.shields.io/badge/mac%20os%20-020202?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-00084d?style=for-the-badge&logo=windows&logoColor=white)
 
-# 📋 Databases
+# ![](assets/icons/database.svg) Databases
 ![MySQL](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&logo=postgresql&logoColor=white)
 
