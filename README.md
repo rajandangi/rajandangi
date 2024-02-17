@@ -2,6 +2,10 @@
 
 Experienced full-stack web developer with 4+ years of expertise in WordPress, PHP, Laravel, server and networking. Skilled in requirement analysis, customer interaction, design, development, implementation, installation, and testing with a track record of delivering successful projects. Let's connect to take your projects to the next level.
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
