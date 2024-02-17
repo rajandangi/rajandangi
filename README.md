@@ -3,8 +3,17 @@
 Experienced full-stack web developer with 4+ years of expertise in WordPress, PHP, Laravel, server and networking. Skilled in requirement analysis, customer interaction, design, development, implementation, installation, and testing with a track record of delivering successful projects. Let's connect to take your projects to the next level.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rajandangi&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rajandangi&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajandangi&show_icons=true" />
+</picture>
 
 # 👨🏻‍💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -27,3 +36,8 @@ Experienced full-stack web developer with 4+ years of expertise in WordPress, PH
 ![Linux](https://img.shields.io/badge/linux-%23E34F26.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os%20-020202?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-00084d?style=for-the-badge&logo=windows&logoColor=white)
+
+# 📋 Databases
+![MySQL](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&logo=postgresql&logoColor=white)
+
