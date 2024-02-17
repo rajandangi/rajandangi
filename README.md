@@ -16,7 +16,6 @@ You can visit my [Portfolio](https://www.rajandangi.com.np) page and [LinkedIn](
   <img src="https://github-readme-stats.vercel.app/api?username=rajandangi&show_icons=true" />
 </picture>
 
----
 
 # 👨🏻‍💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
