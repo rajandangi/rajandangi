@@ -17,7 +17,7 @@ You can visit my [Portfolio](https://www.rajandangi.com.np) page and [LinkedIn](
 </picture>
 
 
-# 👨🏻‍💻 Tech Stack
+## 👨🏻‍💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![PHP](https://img.shields.io/badge/php-7A86B8?style=for-the-badge&logo=php&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-%2320232a.svg?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -31,15 +31,15 @@ You can visit my [Portfolio](https://www.rajandangi.com.np) page and [LinkedIn](
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-# 🛠️ Tools
+## 🛠️ Tools
 ![Docker](https://img.shields.io/badge/docker-3670A0?style=for-the-badge&logo=docker&logoColor=white)
 
-# 🖥️ Operating Systems
+## 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/linux-%23E34F26.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os%20-020202?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-00084d?style=for-the-badge&logo=windows&logoColor=white)
 
-# ![](assets/icons/database.svg) Databases
+## ![](assets/icons/database.svg) Databases
 ![MySQL](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&logo=postgresql&logoColor=white)
 
