@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced full-stack web developer with 4+ years of expertise in:<br>- PHP (WordPress, Laravel), JavaScript (Nodejs, React, Next.js), and <br>- Server management<br>- OpenAI API, embedding, RAG, and private GPT<br>- Fin-Tech, particularly in IT for banking and payment systems<br>- Docker and CI/CD<br><br>**Skilled in:**<br>- Requirement analysis<br>- Customer interaction<br>- Design, development, implementation, installation, and testing<br><br>Proven track record of delivering successful projects. Let's connect to take your projects to the next level!
+Experienced full-stack web developer with 4+ years of expertise in:<br>- PHP (WordPress, Laravel, Moodle), JavaScript (Nodejs, React, Next.js), and <br>- Server management<br>- OpenAI API, embedding, RAG, and private GPT<br>- Fin-Tech, particularly in IT for banking and payment systems<br>- Docker and CI/CD<br><br>**Skilled in:**<br>- Requirement analysis<br>- Customer interaction<br>- Design, development, implementation, installation, and testing<br><br>Proven track record of delivering successful projects. Let's connect to take your projects to the next level!
 
 
 ## 🌐 Socials:
